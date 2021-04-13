@@ -26,3 +26,12 @@ A project that analyses two CNN based deep learning architectures for classifyin
 - Run the notebooks in an Interactive Python Notebook editor like Colab, Spyder, Jupyter Notebook.
 - Alternatively, the pretrained models can be imported and used.
 
+### Links:
+
+**Please check out the notebooks here: 
+
+[Custom CNN Model Notebook](https://www.kaggle.com/vishakansubramanian/alzheimer-s-disease-classification-notebook)
+
+Please check out the notebook here: 
+[Inception V3 Model Notebook](https://www.kaggle.com/vishakansubramanian/alzheimer-s-disease-classification-inceptionv3)**
+
