@@ -32,6 +32,5 @@ Please check out the notebooks here:
 
 [Custom CNN Model Notebook](https://www.kaggle.com/vishakansubramanian/alzheimer-s-disease-classification-notebook)
 
-Please check out the notebook here: 
 [Inception V3 Model Notebook](https://www.kaggle.com/vishakansubramanian/alzheimer-s-disease-classification-inceptionv3)
 
